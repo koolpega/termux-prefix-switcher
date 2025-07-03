@@ -1,6 +1,6 @@
 #!/bin/bash
 # Termux Prefix Switcher
-# Developed by realpega
+# Developed by koolpega
 
 case "$(getprop ro.build.version.release)" in
 	5*|6*)
